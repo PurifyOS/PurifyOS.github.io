@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2017 PurifyOS
+     Copyright (C) 2014 BlissRoms Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<ROM>
+	<!--ROM Name-->
+		<RomName>PurifyOS</RomName>
+
+	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
+		<VersionName>1.0-oneplus3T</VersionName>
+
+	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
+		<VersionNumber type="integer">2017082503</VersionNumber>
+
+	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
+		<DirectUrl>https://www.purifyos.it/sample.zip</DirectUrl>
+
+	<!--Do not edit this!-->
+		<HttpUrl>https://www.purifyos.it</HttpUrl>
+
+	<!--PurifyOS Android Version-->
+		<Android>7.1.1</Android>
+
+	<!--Maintainer Name/Last Uploader's Name-->
+		<Developer>ErnyTech</Developer>
+
+	<!--Official Website-->
+		<WebsiteURL>https://www.purifyos.it</WebsiteURL>
+
+	<!-- Your Donate URL (Please use goo.gl to shorten to avoid CDATA requirement -
+	  Default: http://goo.gl/tymMFo will go to Team Bliss)-->
+		<DonateURL>http://www.paypal.me/ErnyCastell</DonateURL>
+
+	<!--Put the changelog here... Use DaringFireball's Markdown to format it-->
+	<!--Surround special characters with the CDATA tags or your XML will NOT parse-->
+	<Changelog>
+Initial
+	</Changelog>
+
+</ROM>

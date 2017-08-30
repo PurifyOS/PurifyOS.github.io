@@ -20,10 +20,10 @@
 		<VersionName>1.0-oneplus3T</VersionName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionNumber type="integer">2017082503</VersionNumber>
+		<VersionNumber type="integer">2017083001</VersionNumber>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<DirectUrl>https://www.purifyos.it/sample.zip</DirectUrl>
+		<DirectUrl>http://www.purifyos.it/Purifyos-OTA-300817.zip</DirectUrl>
 
 	<!--Do not edit this!-->
 		<HttpUrl>https://www.purifyos.it</HttpUrl>

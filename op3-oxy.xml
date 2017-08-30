@@ -23,13 +23,13 @@
 		<VersionName>1.0-oneplus3</VersionName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionNumber type="integer">2017082503</VersionNumber>
+		<VersionNumber type="integer">2017083001</VersionNumber>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<DirectUrl>https://www.purifyos.it/sample.zip</DirectUrl>
+		<DirectUrl>http://www.purifyos.it/Purifyos-OTA-300817.zip</DirectUrl>
 
 	<!--Do not edit this!-->
-		<HttpUrl>https://www.purifyos.it</HttpUrl>
+		<HttpUrl>http://www.purifyos.it</HttpUrl>
 
 	<!--PurifyOS Android Version-->
 		<Android>7.1.1</Android>
@@ -47,8 +47,8 @@
 	<!--Put the changelog here... Use DaringFireball's Markdown to format it-->
 	<!--Surround special characters with the CDATA tags or your XML will NOT parse-->
 	<Changelog>
+		
 Initial
 	</Changelog>
-	<AddonCount>1</AddonCount>
-        <AddonsURL>http://purifyos.it/addon.xml</AddonsURL>
+	
 </ROM>

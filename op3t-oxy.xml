@@ -17,13 +17,13 @@
 		<RomName>PurifyOS</RomName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionName>1.0-oneplus3T</VersionName>
+		<VersionName>1.2-oneplus3T</VersionName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionNumber type="integer">2017091900</VersionNumber>
+		<VersionNumber type="integer">2017092300</VersionNumber>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<DirectUrl>http://main.purifyos.it/purify/Purify1.1-oneplus3t.zip</DirectUrl>
+		<DirectUrl>http://main.purifyos.it/purify/Purify1.2-oneplus3t.zip</DirectUrl>
 
 	<!--Do not edit this!-->
 		<HttpUrl>https://www.purifyos.it</HttpUrl>
